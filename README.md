@@ -1,2 +1,2 @@
 # Horus
-In deveopment
+In development mobile app.
